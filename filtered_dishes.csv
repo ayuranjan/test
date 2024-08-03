@@ -1,0 +1,201 @@
+dish_id,total_calories,total_mass,total_fat,total_carb,total_protein,ingredient_names,image_path
+dish_1561662216,300.794281,193.0,12.387489,28.21829,18.63397,"soy sauce, garlic, white rice, parsley, onions, brown rice, vinegar, apple, mixed greens, sugar, salt, lemon juice, olive oil, pork, bok choy, pepper, millet",../imagery/realsense_overhead/dish_1561662216\rgb.png
+dish_1562688426,137.569992,88.0,8.256,5.19,10.297,"roasted potatoes, chicken apple sausage",../imagery/realsense_overhead/dish_1562688426\rgb.png
+dish_1561662054,419.438782,292.0,23.838249,26.351543,25.910593,"pepper, white rice, mixed greens, garlic, soy sauce, millet, lemon juice, bok choy, olive oil, onions, vinegar, green beans, pork, apple, sugar, salt, parsley",../imagery/realsense_overhead/dish_1561662054\rgb.png
+dish_1562008979,382.936646,290.0,22.224644,10.17357,35.345387,"jalapenos, lemon juice, pork, wheat berry, cabbage, pepper, salt, carrot, garlic, caesar salad, olive oil, parsley, mayonnaise",../imagery/realsense_overhead/dish_1562008979\rgb.png
+dish_1560455030,20.59,103.0,0.148,4.625,0.956,"cherry tomatoes, cucumbers, baby carrots",../imagery/realsense_overhead/dish_1560455030\rgb.png
+dish_1558372433,74.360001,143.0,0.286,0.429,20.02,deprecated,../imagery/realsense_overhead/dish_1558372433\rgb.png
+dish_1563379132,232.050003,119.0,14.28,14.28,10.591001,chilaquiles,../imagery/realsense_overhead/dish_1563379132\rgb.png
+dish_1565640549,45.482903,139.0,1.568471,7.043886,2.641478,"tomatoes, cilantro, olive oil, mustard greens, lemon juice, onions, cucumbers, salt, arugula, jalapenos, asparagus, lime, mangos, cherry tomatoes",../imagery/realsense_overhead/dish_1565640549\rgb.png
+dish_1563207364,309.269989,271.0,13.774,30.657,15.01,"scrambled eggs, yam, grapes, egg whites, olive oil, sweet potato",../imagery/realsense_overhead/dish_1563207364\rgb.png
+dish_1561575474,120.058434,183.0,4.966118,17.412746,2.990431,"salt, eggplant, roasted potatoes, cauliflower, olive oil",../imagery/realsense_overhead/dish_1561575474\rgb.png
+dish_1550795690,68.119995,131.0,0.262,18.34,0.393,apple,../imagery/realsense_overhead/dish_1550795690\rgb.png
+dish_1563216717,246.007996,332.0,5.636517,16.284782,33.06871,"garlic, squash, cherry tomatoes, chicken breast, spinach (raw), parmesan cheese, wheat berry, olive oil, thyme, honeydew melons, salt, broccoli",../imagery/realsense_overhead/dish_1563216717\rgb.png
+dish_1565972591,195.199997,122.0,12.2,3.66,17.08,chicken apple sausage,../imagery/realsense_overhead/dish_1565972591\rgb.png
+dish_1568649312,44.459999,78.0,0.234,10.92,0.546,berries,../imagery/realsense_overhead/dish_1568649312\rgb.png
+dish_1550876012,253.520004,207.0,4.455999,12.46,38.608002,"chicken, cantaloupe, potatoes",../imagery/realsense_overhead/dish_1550876012\rgb.png
+dish_1551565034,7.79,19.0,0.038,1.9,0.171,carrot,../imagery/realsense_overhead/dish_1551565034\rgb.png
+dish_1550860747,39.5,79.0,0.079,10.27,0.395,pineapple,../imagery/realsense_overhead/dish_1550860747\rgb.png
+dish_1566245398,506.355377,230.0,31.183908,4.258222,49.023197,"olive oil, lime, salt, garlic, cauliflower, steak, roast chicken, wheat berry",../imagery/realsense_overhead/dish_1566245398\rgb.png
+dish_1563381680,32.459999,6.0,2.52,0.084,2.22,bacon,../imagery/realsense_overhead/dish_1563381680\rgb.png
+dish_1562183096,41.18898,95.0,2.571043,3.28026,2.80497,"pepper, chard, blueberries, mushroom, vinegar, arugula, mustard, olive oil, walnuts, salt",../imagery/realsense_overhead/dish_1562183096\rgb.png
+dish_1563476551,1116.391113,750.0,51.413692,74.705963,85.498482,"shallots, salmon, mushroom, ginger, squash, brownies, lemon juice, sour cream, lime, garlic, cheese pizza, wine, cream, brown rice, jalapenos, spinach (raw), beef, pasta, thyme, olive oil, broccoli, onions, zucchini, salt, cilantro, chili",../imagery/realsense_overhead/dish_1563476551\rgb.png
+dish_1559844951,274.335999,122.0,17.906,22.792,9.784,"almonds, potatoes",../imagery/realsense_overhead/dish_1559844951\rgb.png
+dish_1550778583,67.759995,88.0,0.088,14.96,1.76,potatoes,../imagery/realsense_overhead/dish_1550778583\rgb.png
+dish_1562963704,663.755798,479.0,28.423254,66.054832,35.921761,"radishes, bok choy, vinegar, salt, roasted potatoes, mixed greens, soy sauce, caesar salad, garlic, sugar, pepper, white rice, pork, rice noodles, cabbage, pizza, olive oil, carrot, green onions",../imagery/realsense_overhead/dish_1562963704\rgb.png
+dish_1566417398,56.892494,46.0,5.357862,2.088042,0.792647,"mustard, vinegar, mixed greens, celery root, olive oil, salt, cherry tomatoes",../imagery/realsense_overhead/dish_1566417398\rgb.png
+dish_1561739238,274.190002,257.0,9.785,37.556999,9.465,"egg whites, hash browns, berries, sweet potato",../imagery/realsense_overhead/dish_1561739238\rgb.png
+dish_1562611680,326.888977,256.0,19.411798,24.775015,16.028036,"cilantro, garlic, olive oil, pepperoni pizza, lemon juice, onions, vinegar, blueberries, salt, caesar salad, steak, kale, jalapenos, spinach (raw), mustard, white rice, radishes, pineapple",../imagery/realsense_overhead/dish_1562611680\rgb.png
+dish_1568144828,76.748177,152.0,4.168533,10.369692,1.329856,"salt, pepper, carrot, olive oil, olives, cherry tomatoes",../imagery/realsense_overhead/dish_1568144828\rgb.png
+dish_1550708440,37.5,75.0,0.075,9.75,0.375,pineapple,../imagery/realsense_overhead/dish_1550708440\rgb.png
+dish_1551307090,171.550003,52.0,11.686,11.48,6.152,"potato chips, bacon, mushroom",../imagery/realsense_overhead/dish_1551307090\rgb.png
+dish_1564432238,455.387939,315.0,23.15468,34.854778,28.074873,"cherry tomatoes, cauliflower, lime, mayonnaise, jalapenos, pepperoni pizza, parsley, vinegar, lemon juice, cabbage, mixed greens, lettuce, salt, pepper, pineapple, pork, wheat berry, onions, cucumbers, olive oil, garlic, carrot",../imagery/realsense_overhead/dish_1564432238\rgb.png
+dish_1563468327,351.886047,483.0,9.768622,57.495316,12.099887,"yam, sweet potato, cottage cheese, pineapple, watermelon, olive oil, berries",../imagery/realsense_overhead/dish_1563468327\rgb.png
+dish_1562862493,198.320007,134.0,14.74,2.144,13.400001,scrambled eggs,../imagery/realsense_overhead/dish_1562862493\rgb.png
+dish_1558549008,20.700001,115.0,0.23,4.485,1.035,cherry tomatoes,../imagery/realsense_overhead/dish_1558549008\rgb.png
+dish_1560453174,329.716248,256.0,18.145134,10.521854,32.1376,"basil, rosemary, carrot, olive oil, almonds, lemon juice, parsley, green beans, blueberries, chicken, pepper, salt, garlic, vinegar, zucchini, mustard, spinach (raw), thyme, wheat berry, squash",../imagery/realsense_overhead/dish_1560453174\rgb.png
+dish_1551226363,17.15,49.0,0.196,3.43,1.176,broccoli,../imagery/realsense_overhead/dish_1551226363\rgb.png
+dish_1562691032,419.681702,415.0,22.039829,39.058826,17.94734,"berries, olive oil, pineapple, scrambled eggs, roasted potatoes, broccoli",../imagery/realsense_overhead/dish_1562691032\rgb.png
+dish_1551374440,48.059998,54.0,0.162,12.42,0.594,banana,../imagery/realsense_overhead/dish_1551374440\rgb.png
+dish_1563824250,17.200001,43.0,0.043,3.87,0.473,onions,../imagery/realsense_overhead/dish_1563824250\rgb.png
+dish_1560543755,257.924927,264.0,8.887804,27.355255,17.404505,"green onions, chicken, cauliflower, green beans, spinach (raw), ginger, olive oil, roasted potatoes, mixed greens, carrot, broccoli, salt, white rice, vinegar, rice noodles, cabbage, radishes, soy sauce, garlic",../imagery/realsense_overhead/dish_1560543755\rgb.png
+dish_1558549773,2.3,10.0,0.04,0.36,0.29,spinach (raw),../imagery/realsense_overhead/dish_1558549773\rgb.png
+dish_1563822597,59.400002,176.0,2.170667,7.626667,4.106667,"broccoli, caesar salad, squash, zucchini",../imagery/realsense_overhead/dish_1563822597\rgb.png
+dish_1551492561,357.932007,159.0,28.653,7.446,18.050001,"olives, mushroom, sausage",../imagery/realsense_overhead/dish_1551492561\rgb.png
+dish_1566920365,490.421692,871.0,5.324439,41.393566,60.675976,"salsa, sweet potato, olive oil, egg whites",../imagery/realsense_overhead/dish_1566920365\rgb.png
+dish_1563984242,402.117035,753.0,3.30239,36.819611,49.407761,"sweet potato, egg whites, pineapple, olive oil, cantaloupe",../imagery/realsense_overhead/dish_1563984242\rgb.png
+dish_1551237016,92.5,37.0,5.55,0.0,9.62,beef,../imagery/realsense_overhead/dish_1551237016\rgb.png
+dish_1551489812,74.75,65.0,6.955,4.095,0.52,olives,../imagery/realsense_overhead/dish_1551489812\rgb.png
+dish_1558459276,102.699997,79.0,0.237,22.120001,2.133,white rice,../imagery/realsense_overhead/dish_1558459276\rgb.png
+dish_1560974707,55.025124,60.0,2.003546,7.088692,2.992605,"onions, spinach (raw), cherry tomatoes, tortilla chips, corn, cheese, salt, chili, tomatoes, garlic, lime, sour cream, black beans",../imagery/realsense_overhead/dish_1560974707\rgb.png
+dish_1564686855,1030.160645,435.0,52.116467,85.930336,56.845505,"cucumbers, onions, brownies, chicken breast, cherry tomatoes, olives, salt, lettuce, cheese pizza, mixed greens, lime, pepper, olive oil, vinegar",../imagery/realsense_overhead/dish_1564686855\rgb.png
+dish_1565119669,55.965,229.0,1.0305,10.842,3.2725,"kale, zucchini, chard, chayote squash",../imagery/realsense_overhead/dish_1565119669\rgb.png
+dish_1566417516,385.402527,425.0,36.516472,23.505039,33.699574,"wheat berry, eggplant, cherry tomatoes, mixed greens, celery root, salt, mustard, garlic, olive oil, vinegar, chard, fish, chive, shallots, roasted potatoes, parsley, lemon juice",../imagery/realsense_overhead/dish_1566417516\rgb.png
+dish_1558724031,358.710999,303.0,25.801001,25.789999,14.067,"cherry tomatoes, cantaloupe, almonds, cauliflower",../imagery/realsense_overhead/dish_1558724031\rgb.png
+dish_1551494178,369.660004,230.0,14.521,36.071999,26.472002,"tortilla, chicken, olives",../imagery/realsense_overhead/dish_1551494178\rgb.png
+dish_1551233434,27.23,104.0,0.292,5.182,2.334,"mushroom, cucumbers, broccoli",../imagery/realsense_overhead/dish_1551233434\rgb.png
+dish_1551390304,39.650002,65.0,0.325,9.75,0.715,kiwi,../imagery/realsense_overhead/dish_1551390304\rgb.png
+dish_1558637393,739.968018,128.0,63.360001,29.056,28.672001,almonds,../imagery/realsense_overhead/dish_1558637393\rgb.png
+dish_1563393217,49.230003,228.0,0.467667,9.802668,2.865667,"zucchini, broccoli, squash, onions, cucumbers",../imagery/realsense_overhead/dish_1563393217\rgb.png
+dish_1562789268,569.511536,350.0,22.733551,64.756828,32.585655,"pork, corn on the cob, brown rice, lemon juice, parsley, basil, shallots, cherry tomatoes, cheese pizza, pepper, salt, vinegar, olive oil, onions, garlic, broccoli",../imagery/realsense_overhead/dish_1562789268\rgb.png
+dish_1563998323,634.505066,574.0,32.486301,35.302532,52.964516,"roasted potatoes, shallots, olive oil, tatsoi, butter, jalapenos, wheat berry, mushroom, steak, oregano, chicken, pepper, salt, garlic, white wine, cilantro, vinegar, thyme, lemon juice, rosemary, arugula, basil, brown rice, cream, parsley, cauliflower",../imagery/realsense_overhead/dish_1563998323\rgb.png
+dish_1568144803,66.128174,93.0,4.050533,8.068691,0.798856,"salt, pepper, carrot, olive oil, olives",../imagery/realsense_overhead/dish_1568144803\rgb.png
+dish_1551487158,94.299995,82.0,8.774,5.166,0.656,olives,../imagery/realsense_overhead/dish_1551487158\rgb.png
+dish_1559700851,61.089886,54.0,5.827236,1.897059,1.151647,"spinach (raw), vinegar, tomatoes, salt, mustard, garlic, olive oil, mustard greens, cucumbers",../imagery/realsense_overhead/dish_1559700851\rgb.png
+dish_1561997365,98.951996,168.0,0.672,6.048,16.800001,yogurt,../imagery/realsense_overhead/dish_1561997365\rgb.png
+dish_1551395233,139.410004,113.0,2.094,5.964,24.362,"chicken, corn, shrimp",../imagery/realsense_overhead/dish_1551395233\rgb.png
+dish_1561492204,488.636322,334.0,15.686282,49.120712,37.193401,"olive oil, blueberries, onions, tomatoes, salt, fried rice, chicken, pepper, mustard, garlic, bell peppers, millet, jalapenos, spinach (raw), vinegar, radishes",../imagery/realsense_overhead/dish_1561492204\rgb.png
+dish_1567613057,406.68631,749.0,4.968488,45.862511,40.6982,"olive oil, egg whites, watermelon, sweet potato, salsa",../imagery/realsense_overhead/dish_1567613057\rgb.png
+dish_1563996485,178.039185,201.0,11.607642,16.567097,4.172902,"salt, pepper, blueberries, chard, arugula, vinegar, mustard, olive oil, walnuts, roasted potatoes, cauliflower",../imagery/realsense_overhead/dish_1563996485\rgb.png
+dish_1550775393,402.750031,166.0,30.093002,28.189999,12.973,"broccoli, nuts, banana",../imagery/realsense_overhead/dish_1550775393\rgb.png
+dish_1564761488,327.986023,336.0,8.358,40.558998,21.735001,"turkey bacon, egg whites, fried rice, honeydew melons",../imagery/realsense_overhead/dish_1564761488\rgb.png
+dish_1551376970,125.389999,184.0,1.204,29.699999,2.723,"kiwi, corn, berries",../imagery/realsense_overhead/dish_1551376970\rgb.png
+dish_1559239151,9.2,40.0,0.16,1.44,1.16,spinach (raw),../imagery/realsense_overhead/dish_1559239151\rgb.png
+dish_1559678330,169.694122,150.0,16.186766,5.269608,3.199019,"olive oil, spinach (raw), vinegar, tomatoes, garlic, cucumbers, salt, mustard, mustard greens",../imagery/realsense_overhead/dish_1559678330\rgb.png
+dish_1563998210,148.089218,91.0,4.958992,2.163187,22.614895,"garlic, olive oil, thyme, lemon juice, butter, cream, oregano, chicken, pepper, white wine, shallots, arugula, rosemary, mushroom, basil, wheat berry, salt",../imagery/realsense_overhead/dish_1563998210\rgb.png
+dish_1565033110,47.599998,147.0,0.588,9.355,3.418,"broccoli, mixed greens",../imagery/realsense_overhead/dish_1565033110\rgb.png
+dish_1564428444,157.001038,277.0,10.32739,14.948835,4.712034,"olive oil, onions, salt, garlic, pears, mixed greens, mustard, cherry tomatoes, cauliflower, vinegar",../imagery/realsense_overhead/dish_1564428444\rgb.png
+dish_1558459115,271.540009,298.0,10.487999,43.459003,6.616,"almonds, apple, white rice, cherry tomatoes, grapes",../imagery/realsense_overhead/dish_1558459115\rgb.png
+dish_1564082178,549.203613,348.0,15.769115,9.967051,86.590042,"chard, rosemary, garlic, salt, chicken, lemon juice, chive, carrot, olive oil, parsley, basil, brown rice",../imagery/realsense_overhead/dish_1564082178\rgb.png
+dish_1550707756,87.5,35.0,5.25,0.0,9.099999,beef,../imagery/realsense_overhead/dish_1550707756\rgb.png
+dish_1558723777,74.360001,143.0,0.286,20.02,0.429,apple,../imagery/realsense_overhead/dish_1558723777\rgb.png
+dish_1558721757,768.873047,133.0,65.834999,30.191,29.792002,almonds,../imagery/realsense_overhead/dish_1558721757\rgb.png
+dish_1551227216,5.28,24.0,0.072,0.792,0.744,mushroom,../imagery/realsense_overhead/dish_1551227216\rgb.png
+dish_1564777960,331.007507,147.0,16.715342,16.270294,26.4312,"spinach (cooked), cheese pizza, shallots, onions, salt, olive oil, vinegar, bok choy, beef, millet",../imagery/realsense_overhead/dish_1564777960\rgb.png
+dish_1551492702,28.5,114.0,0.342,5.7,2.052,cauliflower,../imagery/realsense_overhead/dish_1551492702\rgb.png
+dish_1563378110,348.823059,405.0,11.770057,31.482302,26.479719,"cantaloupe, sweet potato, olive oil, pineapple, egg whites, sausage, yam",../imagery/realsense_overhead/dish_1563378110\rgb.png
+dish_1558376306,372.167999,108.0,29.484001,4.536,20.844,sausage,../imagery/realsense_overhead/dish_1558376306\rgb.png
+dish_1558114086,74.360001,143.0,0.286,0.429,20.02,deprecated,../imagery/realsense_overhead/dish_1558114086\rgb.png
+dish_1550771267,20.299999,58.0,0.232,4.06,1.392,broccoli,../imagery/realsense_overhead/dish_1550771267\rgb.png
+dish_1551390215,15.05,43.0,0.172,3.01,1.032,broccoli,../imagery/realsense_overhead/dish_1551390215\rgb.png
+dish_1558720236,887.823059,407.0,66.440002,60.460999,31.913002,"apple, carrot, cauliflower, almonds",../imagery/realsense_overhead/dish_1558720236\rgb.png
+dish_1563468269,129.01001,302.0,0.56,32.762001,1.768,"berries, watermelon, pineapple",../imagery/realsense_overhead/dish_1563468269\rgb.png
+dish_1558380557,699.320068,212.0,54.440002,24.960001,32.732002,"grapes, almonds, sausage",../imagery/realsense_overhead/dish_1558380557\rgb.png
+dish_1562873028,280.3414,320.0,16.123878,34.232201,20.963665,"jicama, parsley, nopales, olive oil, cherry tomatoes, chive, fish, pepper, salt, corn, arugula, sour cream, green beans, celery, carrot, couscous, garlic, lime",../imagery/realsense_overhead/dish_1562873028\rgb.png
+dish_1551565884,25.08,44.0,0.132,6.16,0.308,berries,../imagery/realsense_overhead/dish_1551565884\rgb.png
+dish_1558637769,80.079994,154.0,0.308,21.559999,0.462,apple,../imagery/realsense_overhead/dish_1558637769\rgb.png
+dish_1564415022,69.159996,133.0,0.266,0.931,13.3,egg whites,../imagery/realsense_overhead/dish_1564415022\rgb.png
+dish_1558724959,581.441956,426.0,36.466,57.004002,21.298,"brussels sprouts, carrot, almonds, apple",../imagery/realsense_overhead/dish_1558724959\rgb.png
+dish_1551391034,48.959999,72.0,1.008,8.639999,1.728,oatmeal,../imagery/realsense_overhead/dish_1551391034\rgb.png
+dish_1558115867,132.962997,23.0,11.385,5.221,5.152,almonds,../imagery/realsense_overhead/dish_1558115867\rgb.png
+dish_1551391302,26.860001,79.0,0.158,6.32,0.632,cantaloupe,../imagery/realsense_overhead/dish_1551391302\rgb.png
+dish_1551222877,104.639999,48.0,1.392,21.599998,2.88,tortilla,../imagery/realsense_overhead/dish_1551222877\rgb.png
+dish_1561580370,126.795876,124.0,4.96353,16.20141,5.41,"spinach (raw), wheat berry, cheese, cherry tomatoes, pasta, pesto, caesar salad, onions",../imagery/realsense_overhead/dish_1561580370\rgb.png
+dish_1551223114,124.5,100.0,1.576,25.859999,3.936,"tortilla, carrot, broccoli",../imagery/realsense_overhead/dish_1551223114\rgb.png
+dish_1562618000,685.993896,448.0,36.103981,30.821442,59.159676,"vinegar, olive oil, garlic, mustard greens, pepper, salt, radishes, lemon juice, thyme, brown rice, parsley, basil, arugula, chicken thighs, chickpeas, broccoli",../imagery/realsense_overhead/dish_1562618000\rgb.png
+dish_1561061658,226.000137,227.0,12.284481,24.678637,8.949248,"croutons, pepper, parmesan cheese, brussels sprouts, mustard greens, garlic, kale, parsley, salt, shallots, arugula, olive oil, lemon juice, caesar dressing, cranberries, bulgur, apple",../imagery/realsense_overhead/dish_1561061658\rgb.png
+dish_1559838402,222.759506,233.0,3.797,43.154999,5.249,"bacon, sweet potato, yam, berries",../imagery/realsense_overhead/dish_1559838402\rgb.png
+dish_1566242164,79.220001,161.0,4.47,9.891001,1.513,"olives, cherry tomatoes, onions",../imagery/realsense_overhead/dish_1566242164\rgb.png
+dish_1550775363,402.75,166.0,30.093,28.190001,12.973,"banana, broccoli, nuts",../imagery/realsense_overhead/dish_1550775363\rgb.png
+dish_1564686832,829.737549,392.0,39.732468,64.516342,54.179504,"onions, brownies, olives, chicken breast, salt, lime, cherry tomatoes, cheese pizza, lettuce, pepper, mixed greens, olive oil, vinegar, cucumbers",../imagery/realsense_overhead/dish_1564686832\rgb.png
+dish_1566502211,104.279999,237.0,4.977,10.191,7.584001,caesar salad,../imagery/realsense_overhead/dish_1566502211\rgb.png
+dish_1551314967,142.099991,139.0,7.113,15.960001,7.775,"corn, bacon, lemon",../imagery/realsense_overhead/dish_1551314967\rgb.png
+dish_1561753238,298.034393,333.0,13.71139,14.026631,28.881098,"olive oil, arugula, brown rice, pepper, squash, kale, salmon, parsley, garlic, lemon juice, salt, tatsoi, thyme, cucumbers",../imagery/realsense_overhead/dish_1561753238\rgb.png
+dish_1566938026,450.576294,219.0,17.546904,37.536308,33.509502,"spinach (cooked), wine, cheese pizza, salt, lemon juice, squash, eggplant, mushroom, chicken thighs, olive oil, quinoa, garlic, shallots",../imagery/realsense_overhead/dish_1566938026\rgb.png
+dish_1562617703,179.630005,110.0,6.49,26.950001,4.51,frozen yogurt,../imagery/realsense_overhead/dish_1562617703\rgb.png
+dish_1551125357,23.120001,68.0,0.476,4.624,0.476,tomatoes,../imagery/realsense_overhead/dish_1551125357\rgb.png
+dish_1559751801,451.635986,343.0,22.040001,32.778,29.228001,"berries, yam, eggs, chicken apple sausage",../imagery/realsense_overhead/dish_1559751801\rgb.png
+dish_1564000490,532.706482,325.0,19.150002,49.639648,39.909866,"pepper, arugula, cream, caesar salad, butter, shallots, cheese pizza, salt, garlic, lemon juice, basil, mushroom, wheat berry, oregano, thyme, olive oil, rosemary, white wine, chicken",../imagery/realsense_overhead/dish_1564000490\rgb.png
+dish_1551389684,6.732,33.0,0.033,1.287,0.726,asparagus,../imagery/realsense_overhead/dish_1551389684\rgb.png
+dish_1564000459,485.186493,217.0,16.882004,44.995647,36.453865,"butter, wheat berry, thyme, olive oil, rosemary, lemon juice, cheese pizza, shallots, garlic, salt, white wine, pepper, cream, mushroom, arugula, oregano, basil, chicken",../imagery/realsense_overhead/dish_1564000459\rgb.png
+dish_1558457530,16.0,64.0,0.192,3.2,1.152,cauliflower,../imagery/realsense_overhead/dish_1558457530\rgb.png
+dish_1551563213,137.089996,137.0,6.757,11.004,9.523,"ham, berries, olives",../imagery/realsense_overhead/dish_1551563213\rgb.png
+dish_1558723449,74.360001,143.0,0.286,20.02,0.429,apple,../imagery/realsense_overhead/dish_1558723449\rgb.png
+dish_1567628157,373.190979,355.0,36.018696,25.867041,37.479683,"green onions, fish, apple, arugula, onions, chard, country rice, cranberries, lemon juice, garlic, salt, parsley, kale, olive oil, mustard greens, shallots, bulgur",../imagery/realsense_overhead/dish_1567628157\rgb.png
+dish_1566502505,454.517365,275.0,22.45969,33.146801,31.874937,"sun dried tomatoes, bok choy, pork, corn on the cob, cucumbers, onions, salt, soy sauce, garlic, sugar, pepper, white rice, vinegar, spinach (raw), mustard, olive oil",../imagery/realsense_overhead/dish_1566502505\rgb.png
+dish_1565728415,194.42775,80.0,8.405299,16.724396,12.005533,"cheese pizza, shallots, spinach (cooked), onions, olive oil, vinegar, millet, salt, bok choy, beef",../imagery/realsense_overhead/dish_1565728415\rgb.png
+dish_1550775318,333.850006,55.0,29.700001,11.549999,11.0,nuts,../imagery/realsense_overhead/dish_1550775318\rgb.png
+dish_1565383026,171.559998,287.0,14.031,12.198999,3.695,"spinach (raw), cucumbers, olives",../imagery/realsense_overhead/dish_1565383026\rgb.png
+dish_1558642089,39.360001,96.0,0.192,9.6,0.864,carrot,../imagery/realsense_overhead/dish_1558642089\rgb.png
+dish_1566849923,127.970001,240.0,7.515,16.214001,2.093,"olives, cherry tomatoes, carrot",../imagery/realsense_overhead/dish_1566849923\rgb.png
+dish_1550863247,17.16,33.0,0.066,4.62,0.099,apple,../imagery/realsense_overhead/dish_1550863247\rgb.png
+dish_1550772027,66.300003,142.0,0.564,15.336,1.476,"bell peppers, tomatoes, berries",../imagery/realsense_overhead/dish_1550772027\rgb.png
+dish_1550797833,292.003998,168.0,17.58,19.098,14.083,"sausage, orange, potatoes",../imagery/realsense_overhead/dish_1550797833\rgb.png
+dish_1562959732,374.663696,232.0,14.678156,31.110981,28.858997,"salt, soy sauce, bok choy, pork, parsnips, pepper, garlic, sugar, white rice",../imagery/realsense_overhead/dish_1562959732\rgb.png
+dish_1560368972,196.840424,107.0,8.696033,13.621221,14.67344,"pork, cherry tomatoes, garlic, shallots, white rice, salt, onions, basil, olive oil, brown rice, vinegar, pepper, broccoli, lemon juice, parsley",../imagery/realsense_overhead/dish_1560368972\rgb.png
+dish_1566502537,517.644226,315.0,24.27223,34.292435,41.827816,"corn on the cob, vinegar, parsley, sun dried tomatoes, rosemary, carrot, salt, garlic, mustard, cucumbers, lemon juice, olive oil, chive, pork, chicken, spinach (raw), pepper, bok choy, white rice, brown rice, soy sauce, chard, sugar, onions, basil",../imagery/realsense_overhead/dish_1566502537\rgb.png
+dish_1561576590,29.231468,101.0,1.295191,3.387423,0.896671,"squash, olive oil, salt",../imagery/realsense_overhead/dish_1561576590\rgb.png
+dish_1558723866,14.75,59.0,0.177,2.95,1.062,cauliflower,../imagery/realsense_overhead/dish_1558723866\rgb.png
+dish_1564778030,504.417786,283.0,31.904985,23.514265,30.773952,"millet, spinach (cooked), vinegar, onions, cheese pizza, broccoli, bok choy, mixed greens, shallots, blue cheese, beef, olive oil, mustard, garlic, walnuts, lettuce, salt",../imagery/realsense_overhead/dish_1564778030\rgb.png
+dish_1551222759,14.8,37.0,0.074,3.33,0.74,bell peppers,../imagery/realsense_overhead/dish_1551222759\rgb.png
+dish_1551380950,84.419998,21.0,6.93,0.273,5.25,cheese,../imagery/realsense_overhead/dish_1551380950\rgb.png
+dish_1561392512,42.75,75.0,0.225,10.5,0.525,berries,../imagery/realsense_overhead/dish_1561392512\rgb.png
+dish_1564675118,177.188782,238.0,4.080829,34.125175,2.032732,"olive oil, watermelon, sweet potato",../imagery/realsense_overhead/dish_1564675118\rgb.png
+dish_1566838407,358.947601,558.0,9.825659,62.420345,9.731463,"pineapple, scrambled eggs, sweet potato, berries, olive oil, watermelon",../imagery/realsense_overhead/dish_1566838407\rgb.png
+dish_1559319860,70.330002,13.0,5.46,0.182,4.81,bacon,../imagery/realsense_overhead/dish_1559319860\rgb.png
+dish_1559242568,116.116005,203.0,0.203,30.855999,0.812,pears,../imagery/realsense_overhead/dish_1559242568\rgb.png
+dish_1563824339,85.339996,175.0,4.087,12.075,2.098,"onions, cherry tomatoes, olives, bell peppers",../imagery/realsense_overhead/dish_1563824339\rgb.png
+dish_1551306452,98.0,70.0,0.42,16.799999,6.3,bean(seed),../imagery/realsense_overhead/dish_1551306452\rgb.png
+dish_1567021831,252.435623,228.0,27.216339,8.228521,22.713125,"cherry tomatoes, pepper, chive, wheat berry, kale, mustard, olive oil, garlic, walnuts, lemon juice, salt, fish, chard, blueberries, vinegar, arugula, parsley, shallots",../imagery/realsense_overhead/dish_1567021831\rgb.png
+dish_1559846099,206.938995,114.0,14.642001,15.712999,7.688,"mandarin oranges, almonds, broccoli",../imagery/realsense_overhead/dish_1559846099\rgb.png
+dish_1562873155,41.33675,79.0,2.052025,5.39175,1.38645,"green beans, olive oil",../imagery/realsense_overhead/dish_1562873155\rgb.png
+dish_1562094621,10.54,34.0,0.034,2.38,0.612,green beans,../imagery/realsense_overhead/dish_1562094621\rgb.png
+dish_1563900150,202.2966,154.0,12.745122,10.284879,10.978048,"sweet potato, olive oil, scrambled eggs",../imagery/realsense_overhead/dish_1563900150\rgb.png
+dish_1551390979,55.510002,91.0,0.455,13.650001,1.001,kiwi,../imagery/realsense_overhead/dish_1551390979\rgb.png
+dish_1562086702,178.529999,33.0,13.86,0.462,12.21,bacon,../imagery/realsense_overhead/dish_1562086702\rgb.png
+dish_1564429894,498.769836,566.0,11.819027,73.531738,25.254065,"quinoa, salt, squash, mayonnaise, arugula, parsley, carrot, couscous, pepper, wheat berry, pork, jalapenos, cabbage, shallots, thyme, olive oil, garlic, lemon juice, cauliflower",../imagery/realsense_overhead/dish_1564429894\rgb.png
+dish_1561662458,124.815498,119.0,4.855837,21.055183,3.202388,"lettuce, lime, salt, mixed greens, onions, cucumbers, vinegar, corn on the cob, olive oil, pepper, cherry tomatoes",../imagery/realsense_overhead/dish_1561662458\rgb.png
+dish_1558720364,73.839996,142.0,0.284,19.879999,0.426,apple,../imagery/realsense_overhead/dish_1558720364\rgb.png
+dish_1559845290,66.220001,86.0,0.086,14.62,1.72,potatoes,../imagery/realsense_overhead/dish_1559845290\rgb.png
+dish_1550707156,645.002014,335.0,43.278999,26.605999,35.140999,"scrambled eggs, potatoes, sausage",../imagery/realsense_overhead/dish_1550707156\rgb.png
+dish_1559844506,98.959999,180.0,0.459,25.1,1.312,"mandarin oranges, grapes, strawberries",../imagery/realsense_overhead/dish_1559844506\rgb.png
+dish_1560360055,362.734009,180.0,27.786999,4.154,22.556999,"sausage, scrambled eggs",../imagery/realsense_overhead/dish_1560360055\rgb.png
+dish_1551488861,217.098007,63.0,17.198999,2.646,12.159,sausage,../imagery/realsense_overhead/dish_1551488861\rgb.png
+dish_1567106825,220.200867,104.0,16.905151,3.357732,13.460875,"bok choy, millet, blue cheese, onions, mustard, olive oil, shallots, spinach (cooked), mixed greens, salt, beef, vinegar, garlic, lettuce, walnuts",../imagery/realsense_overhead/dish_1567106825\rgb.png
+dish_1562099053,98.382996,37.0,3.478,12.395,4.144,cheese pizza,../imagery/realsense_overhead/dish_1562099053\rgb.png
+dish_1560453380,411.388397,480.0,15.234276,25.491495,41.922752,"zucchini, brown rice, arugula, green beans, wheat berry, rosemary, tomatoes, chicken, pepper, kimchi, spinach (raw), squash, salmon, thyme, olive oil, basil, lemon juice, parsley, salt, garlic",../imagery/realsense_overhead/dish_1560453380\rgb.png
+dish_1566849327,551.702026,362.0,31.255999,14.87,55.122002,"parmesan cheese, mixed greens, avocado, olives, chicken",../imagery/realsense_overhead/dish_1566849327\rgb.png
+dish_1560527191,663.989319,318.0,45.395912,28.933577,34.38044,"mustard greens, cucumbers, bacon, berries, tomatoes, garlic, potatoes, salt, sausage, mustard, vinegar, spinach (raw), olive oil",../imagery/realsense_overhead/dish_1560527191\rgb.png
+dish_1563898786,420.928467,344.0,31.47023,11.427504,23.636036,"mustard, olive oil, bell peppers, broccoli, radishes, salt, garlic, scrambled eggs, vinegar, cucumbers",../imagery/realsense_overhead/dish_1563898786\rgb.png
+dish_1551381829,2.652,13.0,0.013,0.507,0.286,asparagus,../imagery/realsense_overhead/dish_1551381829\rgb.png
+dish_1551376692,41.279999,43.0,0.645,9.03,1.462,corn,../imagery/realsense_overhead/dish_1551376692\rgb.png
+dish_1551565752,122.25,131.0,2.79,13.64,10.773,"cauliflower, white rice, ham",../imagery/realsense_overhead/dish_1551565752\rgb.png
+dish_1560973958,145.313232,121.0,6.214187,20.729744,4.312272,"wheat berry, olive oil, mustard, pecans, lime, salt, raisins, pepper, arugula, orange",../imagery/realsense_overhead/dish_1560973958\rgb.png
+dish_1558546663,330.734009,197.0,22.108002,30.264,10.601,"spinach (raw), almonds, apple",../imagery/realsense_overhead/dish_1558546663\rgb.png
+dish_1550861432,26.789999,47.0,0.141,6.58,0.329,berries,../imagery/realsense_overhead/dish_1550861432\rgb.png
+dish_1551393210,484.329987,190.0,34.821003,31.131001,18.821001,"white rice, tofu, nuts",../imagery/realsense_overhead/dish_1551393210\rgb.png
+dish_1563206582,229.248688,320.0,4.417208,16.967773,26.033964,"yam, egg whites, olive oil, sweet potato",../imagery/realsense_overhead/dish_1563206582\rgb.png
+dish_1565207815,40.848213,80.0,1.023567,7.094023,2.678475,"brussels sprouts, salt, pepper, olive oil",../imagery/realsense_overhead/dish_1565207815\rgb.png
+dish_1551236712,32.43,69.0,0.069,8.28,0.621,orange,../imagery/realsense_overhead/dish_1551236712\rgb.png
+dish_1568305257,837.147766,420.0,65.496887,9.31325,52.072983,"turkey bacon, salt, bell peppers, mustard, olive oil, cucumbers, vinegar, scrambled eggs, garlic, radishes",../imagery/realsense_overhead/dish_1568305257\rgb.png
+dish_1550712024,29.92,88.0,0.616,5.984,0.616,tomatoes,../imagery/realsense_overhead/dish_1550712024\rgb.png
+dish_1551139367,77.75,105.0,1.863,9.42,6.735,"ham, pineapple, mixed greens",../imagery/realsense_overhead/dish_1551139367\rgb.png
+dish_1568314823,144.0,90.0,13.500001,8.1,1.8,avocado,../imagery/realsense_overhead/dish_1568314823\rgb.png
+dish_1565119464,504.065033,223.0,23.109737,44.41399,28.041883,"millet, apple, cheese pizza, salt, olive oil, onions, cranberries, mustard, vinegar, spinach (raw), spinach (cooked), beef, shallots, bok choy",../imagery/realsense_overhead/dish_1565119464\rgb.png
+dish_1565725047,77.659996,110.0,4.84,9.372,0.946,"carrot, olives",../imagery/realsense_overhead/dish_1565725047\rgb.png
+dish_1551236011,281.720001,307.0,4.474,21.995998,38.446003,"orange, mixed greens, chicken",../imagery/realsense_overhead/dish_1551236011\rgb.png
+dish_1550705623,20.4,51.0,0.102,4.59,1.02,bell peppers,../imagery/realsense_overhead/dish_1550705623\rgb.png
+dish_1559841163,357.043518,335.0,18.222002,27.539,21.153002,"blackberries, scrambled eggs, yam, sweet potato, chicken apple sausage, broccoli",../imagery/realsense_overhead/dish_1559841163\rgb.png
+dish_1563568338,631.706665,371.0,29.600521,57.599113,38.704674,"salt, garlic, olive oil, kale, onions, wheat berry, mushroom, corn on the cob, ground turkey, chive, cheese pizza, carrot, thyme, celery, cream, white rice, eggs",../imagery/realsense_overhead/dish_1563568338\rgb.png
+dish_1551395512,25.5,51.0,0.051,6.63,0.255,pineapple,../imagery/realsense_overhead/dish_1551395512\rgb.png
+dish_1563468299,210.350006,385.0,4.129,35.584,10.898,"cottage cheese, pineapple, watermelon, berries",../imagery/realsense_overhead/dish_1563468299\rgb.png
+dish_1558027001,20.400002,68.0,0.068,5.168,0.408,deprecated,../imagery/realsense_overhead/dish_1558027001\rgb.png
+dish_1551568059,35.669998,123.0,0.369,11.070001,1.353,lemon,../imagery/realsense_overhead/dish_1551568059\rgb.png
+dish_1565033265,1324.084961,625.0,106.343002,19.202002,76.664001,"olives, mixed greens, broccoli, chicken, vinaigrette, olive oil",../imagery/realsense_overhead/dish_1565033265\rgb.png
+dish_1551323574,61.880001,91.0,1.274,10.92,2.184,oatmeal,../imagery/realsense_overhead/dish_1551323574\rgb.png
+dish_1551491271,43.5,30.0,1.8,0.45,6.3,ham,../imagery/realsense_overhead/dish_1551491271\rgb.png
+dish_1563475921,244.343323,348.0,6.723852,27.165054,19.799664,"shallots, garlic, lemon juice, onions, spinach (raw), jalapenos, pineapple, cauliflower, honeydew melons, chili, salt, olive oil, lime, ginger, brown rice, cilantro, salmon",../imagery/realsense_overhead/dish_1563475921\rgb.png
+dish_1561665024,100.570984,121.0,6.984664,8.948565,2.141329,"lemon juice, onions, olive oil, mixed greens, parsley, salt, apple, millet, green beans, vinegar",../imagery/realsense_overhead/dish_1561665024\rgb.png
+dish_1550710448,48.91,67.0,3.216,1.273,5.36,tofu,../imagery/realsense_overhead/dish_1550710448\rgb.png
+dish_1563813308,224.982895,76.0,16.446194,3.901661,15.332276,"salt, pepper, brussels sprouts, olive oil, bacon",../imagery/realsense_overhead/dish_1563813308\rgb.png
+dish_1551235600,83.659996,178.0,0.178,21.359999,1.602,orange,../imagery/realsense_overhead/dish_1551235600\rgb.png
